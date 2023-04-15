@@ -1,0 +1,2 @@
+https://api.telegram.org/bot5633178978:AAEdi_Yn3rd94sYcSLNPYTcJAzDGbYub8ps/getUpdates
+https://api.telegram.org/bot5633178978:AAEdi_Yn3rd94sYcSLNPYTcJAzDGbYub8ps/sendMessage?chat_id=2016079139&text=salam
